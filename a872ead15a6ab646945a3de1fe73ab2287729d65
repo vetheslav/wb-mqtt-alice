@@ -1,0 +1,29 @@
+tests/test_protected_journal.py
+  s_b008dec24c1df0::t_96230d96d54ec4 1-106
+wb/mqtt_alice/client/protected_journal.py
+  s_4d0bf40ba6a41b::t_0fec18f61323e9 1-280
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "a872ead15a6ab646945a3de1fe73ab2287729d65",
+  "prompts": {},
+  "sessions": {
+    "s_4d0bf40ba6a41b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17410-39b2-7ea3-a9f5-40e2ba7977d3",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Slava Shahoika <vistova@gmail.com>"
+    },
+    "s_b008dec24c1df0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a178fa-bb07-7f33-bed3-b6f71212a643",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Slava Shahoika <vistova@gmail.com>"
+    }
+  }
+}
