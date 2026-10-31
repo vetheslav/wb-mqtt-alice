@@ -1,0 +1,21 @@
+debian/changelog
+  s_b008dec24c1df0::t_9d8066112cfef3 1-6
+wb/mqtt_alice/client/wb_alice_device_state_sender.py
+  s_b008dec24c1df0::t_3f7001f10818af 124-134,209,212-218,240-243,256-266,326-327
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aae26031bc4e39d60e1112f9df0c7fd376328d88",
+  "prompts": {},
+  "sessions": {
+    "s_b008dec24c1df0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a178fa-bb07-7f33-bed3-b6f71212a643",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Slava Shahoika <vistova@gmail.com>"
+    }
+  }
+}
