@@ -1,0 +1,33 @@
+debian/changelog
+  s_08c23293887786::t_d2c02897e56860 1,5-12
+debian/control
+  s_08c23293887786::t_2d7e735c5dd27a 13,36
+debian/wb-mqtt-alice-client.service
+  s_08c23293887786::t_9198235f6d7884 8
+tests/README.md
+  s_08c23293887786::t_a98e95ae86770e 26
+tests/test_client_lifecycle.py
+  s_08c23293887786::t_47b5c3a32a7103 127,132-136
+wb/mqtt_alice/client/device_registry.py
+  s_08c23293887786::t_0b3c36a7deebba 28,240,261,285,318,329,338,363
+wb/mqtt_alice/client/main.py
+  s_08c23293887786::t_ee7cf9941c0d83 36,268,706-707,710,716
+wb/mqtt_alice/common/constants.py
+  s_08c23293887786::t_18ad5175a3d107 55-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f9256f2a53c30358f6703f252bc3046b7a2eed24",
+  "prompts": {},
+  "sessions": {
+    "s_08c23293887786": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18682-b306-7093-85bc-fb53b98ba6d2",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Slava Shahoika <vistova@gmail.com>"
+    }
+  }
+}
